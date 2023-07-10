@@ -1,0 +1,37 @@
+		
+===============================================================		
+		Treasure Caverns of Doom
+			
+		      * Help Page *
+===============================================================
+
+You are on a adventure in the underground world, where monsters 
+lives, guarding the treasures.
+
+You need to discover the caves to collect artefacts by defeating
+monsters and their boss -  the Dragon. 
+
+Be careful though as you need to build up your attributes before
+challenging the Boss.
+
+===============================================================
+
+Wining Condition: Collect all 5 artefacts and escape the caves 
+
+
+Loosing Condition: Die (No Health) or Trap (No Lamp Oil)
+
+
+You Could Quit at Any Time.....
+
+===============================================================
+
+Make selection to see other details of the game:
+
+                I|Item Information
+
+                M|Monster Information
+
+                G|Game Play Information
+
+                Q|Quit

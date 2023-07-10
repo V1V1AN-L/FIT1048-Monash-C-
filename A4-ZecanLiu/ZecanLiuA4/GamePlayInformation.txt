@@ -1,0 +1,42 @@
+==========================================================================		
+		
+            	   Knowledge on the Actual Game Play
+
+      Below are a List of the Actions You could take during the Game 
+			
+==========================================================================
+
+E|Examine: You may examine a location cost some of your lantern oil, there 
+is a chance that you may find a item there. One cave could only be examined 
+once.
+
+L|Examine: This is the action you take for selecting the path to take, this
+will take you to the corresponding next location.
+
+P|Provisions: This allows you to use your cosummable items from the bag. For
+example drinking some provision in case of low health.
+
+T|Take and D|Drop: These two functions allow you to take item into your bag 
+and drop item from bag to make space. 
+
+S|Search: This allow you to search a location inside out, with a cost of 1 
+health. This way you may find booster item that boosts your attributes. 
+
+M|Map: Showing the map.
+
+H|Help: Get you back here - The Help Page.
+
+Q|Quit: You can exit the game whenever. 
+
+=================== When enountered with a monster =========================
+
+A|Attack: Starting the combat sequence with a monster. The attack attribute 
+from both sides help deciding whos round it is, and the actual damage is the 
+damage - defence. You want your atatck to be higher. This could be done by 
+defeating monsters. One monster down, attack increase by 1. 
+
+F|Flee: This is when you run from the monster. You will take a minimum 1 damage.
+You need to select your next paths.
+
+
+============================ This Is All ===================================

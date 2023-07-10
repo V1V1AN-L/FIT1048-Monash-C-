@@ -1,0 +1,14 @@
+
+This game tells the story of a hero's treasure hunt. Winning the game means the hero needs to collect 
+five artefacts and successfully take them out of the treasure cave. There are 20 small caves in the treasure 
+cavern, each cave is connected to the other three caves. When entering each cave, there is a possibility of 
+encountering the minions and dragons guarding the treasure. The player has a chance to get artefacts or treasures 
+after defeating the enemies. If you fail to defeat the enemy, the hero will die and the game will end.
+
+The player's initial equipment are a map and a lantern. The lantern has a limited amount of oil, and the player 
+needs to successfully obtain the treasure and leave the cave before the oil runs out. Each turn, the player has 
+the opportunity to move to the next cave and finding the treasure. When encountering enemies, the player can choose 
+whether to fight with them. Players have the opportunity to pick up weapons or armor, which can increase damage and 
+defense abilities. There are five levels of monsters, the higher the level, the stronger the damage ability. It is 
+recommended that players get to acquire as much equipment and item as possible to improve their attributes before 
+challenging high level monsters.
